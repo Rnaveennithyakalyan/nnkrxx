@@ -69,10 +69,7 @@ It checks for the r-xss vulnerability in the given url both in the http and http
 
 ## Contact Me:
 <div align="center"> 
-  <a href="mailto:naveennithyakalyan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
-  <a href="https://www.linkedin.com/in/r-naveen-nithya-kalyan-5474bb1b7">
+   <a href="https://www.linkedin.com/in/r-naveen-nithya-kalyan-5474bb1b7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>

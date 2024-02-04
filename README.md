@@ -36,11 +36,53 @@ pip install shodan
 ````
 pip install pystyle
 ````
+
+## pip installing the package
+````
+pip install nnkrxx
+````
+
 ## Usage
 ````
 nnkrxx
 ````
 run this in your terminal and after running the tool it will automatically ask you to enter the url which you want to redirect to and also the url file list which contains the list of all the urls which we will look for the vulnerability
+
+## Implementation procedures:
+<h2 align="left">Step 1:</h2>
+Navigating to the folder where we are having the input file
+
+![](screenshots/1.png)
+
+<h2 align="left">Step 2:</h2>
+OPening the command prompt in the folder which contains the input file
+
+![](screenshots/2.png)
+
+<h2 align="left">Step 3:</h2>
+1.Typing the tool name in the terminal - nnkrxx and following the succeding steps asked after the initialitation of the tool in the terminal.
+
+![](screenshots/3.png)
+
+It checks for the r-xss vulnerability in the given url both in the http and https and it gives the output whether the given url is vulnerable to the particular CVE-2023-29489 and if it is found vulnerable it redirects to the url which you mentioned eariler during running the tool.
+
+
+## Contact Me:
+<div align="center"> 
+  <a href="mailto:naveennithyakalyan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+  <a href="https://www.linkedin.com/in/r-naveen-nithya-kalyan-5474bb1b7">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+
+
+
+
+
+
 
 
 

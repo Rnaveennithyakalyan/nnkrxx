@@ -9,7 +9,7 @@ from pystyle import *
 import webbrowser
 import socket
 
-TM = 'P0l3Hagw156AFK9Mk8e3hA6xEsiLFqXf'
+TM = 'your_shodan_api_key'
 def main():
 
     if platform.system() == 'Windows':
